@@ -49,7 +49,7 @@ README = README()  # NOQA
 
 
 setup(
-    version="2.9.0",
+    version="2.10.0",
     #   use_scm_version={
     #       'write_to': 'src/dateutil/_version.py',
     #   },
